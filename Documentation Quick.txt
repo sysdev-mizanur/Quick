@@ -1,0 +1,65 @@
+Asset Type: 		JPEG Layout
+
+Fonts: 			Approximated from JPEG
+Size and placement:	Approximated from JPEG
+Colors: 		Approximated from JPEG
+	Navy Blue:	#0f2656
+	Sky Blue:	#1493ff
+	Red:		#f36c7a
+	Pink:		#fdebed
+	Green:		#ebf9f4
+	Beige:		#fff7e8
+
+Layout:	1900 x 2500 px
+	Header	 	wrapper header - logo menu
+			1900 - 120 - 140
+	Banner		wrapper banner - header paragraph image 
+			1900 - 450 - 450
+	Blog		wrapper blog - blog01 blog02
+			1900 - 450 - 375
+	Features	wrapper feature - feature010203
+			1900 - 140 - 140
+	Footer		wrapper footer - footer
+			1900
+Photos:
+	Logo: 		logo01.jpg
+	Banner:		banner01.jpg
+	Features:	feature01.jpg, feature02.jpg, feature03.jpg
+
+
+canvas					1900	X	2500
+			
+header frame height			85px	
+header frame to banner spacing		100px	
+banner header height			150px	
+banner header to paragraph spacing	40px	
+banner paragraph height			50px	
+banner paragraph to image spacing	40px	
+banner image				675pxH	775pxW
+banner image to blog spacing		170px	
+blog height				250px	
+blog01 width				550pxW
+blog02 width				460pxW
+blog column spacing			50px	
+blog to features spacing		100px	
+features height				600px	515pxW
+features to footerspacing		80px	
+footer height				110px	
+
+
+nav font				25px
+banner header font			70px
+banner paragraph font			25px
+banner header line spacing		30px
+banner paragraph line spacing		12px
+blog header font			70px
+blog header line spacing		15px
+blog01 paragraph font			25px
+blog01 paragraph line spacing		12px
+blog column spacing			50px
+features header font			30px
+features header paragraph spacing	30px
+features paragraph font			25px
+features paragraph line spacing		12px
+features column spacing			50px
+footer font				20px
